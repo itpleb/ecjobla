@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+					<string>http://www.ecjob.la/icon-60@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+					<string>http://www.ecjob.la/icon-60@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxxx.demo</string>
+				<string>la.ecjob.ecjob</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.4.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>EC Job La App download</string>
+				<string>EC Job La</string>
 			</dict>
 		</dict>
 	</array>
