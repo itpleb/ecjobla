@@ -32,9 +32,9 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>la.ecjob.ecjob</key>
+				<key>bundle-identifier</key>
 				<string>la.ecjob.ecjob</string>
-				<key>1.4.6</key>
+				<key>bundle-version</key>
 				<string>1.4.6</string>
 				<key>kind</key>
 				<string>software</string>
